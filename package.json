@@ -1,0 +1,26 @@
+{
+  "name": "cofstorage_api",
+  "version": "1.0.0",
+  "description": "Amazon S3 REST API wrapper for demo",
+  "main": "server.js",
+  "keywords": [
+    "storage",
+    "S3"
+  ],
+  "author": "Dave Goldberg",
+  "dependencies": {
+    "async": "^0.9.0",
+    "aws-sdk": "^2.0.23",
+    "basic-auth": "^1.0.0",
+    "body-parser": "^1.9.1",
+    "errorhandler": "^1.2.2",
+    "express": "^4.10.0",
+    "express-session": "^1.9.1",
+    "jjv": "^1.0.2",
+    "method-override": "^2.3.0",
+    "mongoose": "^3.8.18",
+    "morgan": "^1.4.1",
+    "multer": "^0.1.6",
+    "serve-favicon": "^2.1.6"
+  }
+}
